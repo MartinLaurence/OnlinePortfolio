@@ -83,7 +83,7 @@ h6 {
   overflow-y: auto;
 }
 
-#header .profile img {
+#header .profile imgs {
   margin: 15px auto;
   display: block;
   width: 120px;
@@ -229,7 +229,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.gif") top center;
+  background: url("../imgs/hero-bg.gif") top center;
   background-size: cover;
 }
 
@@ -623,7 +623,7 @@ section {
   padding-top: 40px;
 }
 
-.portfolio-details .portfolio-details-slider img {
+.portfolio-details .portfolio-details-slider imgs {
   width: 100%;
 }
 
@@ -750,7 +750,7 @@ section {
   min-height: 320px;
 }
 
-.testimonials .testimonial-item .testimonial-img {
+.testimonials .testimonial-item .testimonial-imgs {
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
